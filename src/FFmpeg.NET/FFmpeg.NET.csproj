@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5</TargetFramework>
+    <TargetFrameworks>net5;netstandard2.0;net45</TargetFrameworks>
     <AssemblyName>FFmpeg.NET</AssemblyName>
     <RootNamespace>FFmpeg.NET</RootNamespace>
     <Authors>Tobias Haimerl (cmxl)</Authors>
